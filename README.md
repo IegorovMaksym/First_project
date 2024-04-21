@@ -50,4 +50,3 @@ ________________________________________________________________________________
 
 **Source code**
 
-*The last developer version is available in Github repository: https://github.com/Reacross/Keep_in_touch
